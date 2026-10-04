@@ -20,15 +20,15 @@ Appen er skrevet av KI i sin helhet.
 
 # Prosjektstruktur
 
--> app.py
--> Dockerfile
--> requirements.txt
--> docker-compose.yml
--> README.md
--> templates/
-   -> index.html
+- app.py
+- Dockerfile
+- requirements.txt
+- docker-compose.yml
+- README.md
+- templates/
+   - index.html
 
-#Oppbygging
+# Oppbygging
 
 Appen består av to tjenester:
 
