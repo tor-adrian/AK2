@@ -1,3 +1,6 @@
+# AK2 er et arbeidskrav for å opprette en docker applikasjon.
+Prosjektet inneholder blant annet en database-tjeneste som har autentisering som blir eksponert i prosjektet.
+
 # Network Toolbox
 
 Network Toolbox er en kalkulator for å regne ut nettverks adresser i subnet.
